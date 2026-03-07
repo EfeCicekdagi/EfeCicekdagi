@@ -28,7 +28,7 @@ Explore my portfolio website:
 
 🔗 [Personal Portfolio](efecicekdagi.github.io/Efe-Cicekdagi-Portfolio/)
 
---
+---
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=EfeCicekdagi&show_icons=true&theme=tokyonight&cache_seconds=86400)
