@@ -26,7 +26,7 @@
 
 Explore my portfolio website:
 
-🔗 [Personal Portfolio](efecicekdagi.github.io/Efe-Cicekdagi-Portfolio/)
+🔗 efecicekdagi.github.io/Efe-Cicekdagi-Portfolio/
 
 ---
 
