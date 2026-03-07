@@ -22,11 +22,11 @@
 
 ---
 
-## 🚀 Portfolio Website
+#$ 🌐 Personal Portfolio
 
-Check out my portfolio to explore my projects in AI, Machine Learning and Computer Vision.
+Explore my portfolio website:
 
-🌐 efecicekdagi.github.io/Efe-Cicekdagi-Portfolio
+🔗 [Personal Portfolio](efecicekdagi.github.io/Efe-Cicekdagi-Portfolio/)
 
 --
 
