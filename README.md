@@ -21,8 +21,9 @@
 ```python
 class Efe:
     university   = "Ege University — Computer Engineering (4th year, English-medium)"
-    location     = "İzmir, Türkiye 🇹🇷"
-    focus        = ["Machine Learning", "Computer Vision", "NLP & LLMs", "Data Engineering"]
+    location     = "İzmir, Türkiye"
+    role         = "Data Scientist & AI Engineer"
+    focus        = ["Machine Learning", "Data Science", "Computer Vision", "NLP & LLMs"]
     experience   = "Data Engineering Intern @ VakıfBank — DWH, ETL, BI"
     currently    = ["LLMs & agent systems", "Graph Neural Networks", "MLOps"]
     goal         = "Turning data into reliable, production-ready AI products"
