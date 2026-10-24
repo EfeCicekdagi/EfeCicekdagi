@@ -146,4 +146,4 @@ LSTM model forecasting wind turbine power output from historical **SCADA** data,
   <i>“Data is the fuel, models are the engine — but evaluation is the steering wheel.”</i>
 </p>
 
-<img src="footer.svg" width="100%"/>
+<img src="https://ghchart.rshah.org/00b4d8/EfeCicekdagi" width="95%" alt="Contribution graph"/>
