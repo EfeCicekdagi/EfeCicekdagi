@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="header.svg" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Efe+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP;LLMs%2C+RAG+%26+Agent+Systems;Data+Engineering+on+Databricks+%26+Spark" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
