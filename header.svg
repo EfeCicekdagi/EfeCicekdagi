@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00b4d8"/>
+      <stop offset="100%" stop-color="#90e0ef"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0,0 H1200 V180 C1000,240 820,150 600,190 C380,230 200,150 0,200 Z"/>
+  <path fill="#00b4d8" opacity="0.18" d="M0,170 C200,130 380,210 600,175 C820,140 1000,215 1200,165 V195 C1000,240 820,160 600,200 C380,235 200,160 0,205 Z">
+    <animate attributeName="opacity" values="0.1;0.28;0.1" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="95" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Efe Çiçekdağı
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+  <rect x="540" y="113" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="600" y="148" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#cdeff7" letter-spacing="1.5">AI &amp; Data Engineer in the making
+    <animate attributeName="opacity" values="0;0;1" dur="2s" fill="freeze"/>
+  </text>
+</svg>
