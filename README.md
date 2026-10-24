@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="./assets/header.svg" width="100%"/>
+<img src="header.svg" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -145,4 +145,4 @@ LSTM model forecasting wind turbine power output from historical **SCADA** data,
   <i>“Data is the fuel, models are the engine — but evaluation is the steering wheel.”</i>
 </p>
 
-<img src="./assets/footer.svg" width="100%"/>
+<img src="footer.svg" width="100%"/>
