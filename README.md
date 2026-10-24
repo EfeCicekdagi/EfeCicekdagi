@@ -137,7 +137,7 @@ LSTM model forecasting wind turbine power output from historical **SCADA** data,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EfeCicekdagi&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://ghchart.rshah.org/00b4d8/EfeCicekdagi" width="95%" alt="Contribution graph"/>
 </p>
 
 ---
