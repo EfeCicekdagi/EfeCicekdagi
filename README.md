@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Efe%20%C3%87i%C3%A7ekda%C4%9F%C4%B1&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20in%20the%20making&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/header.svg" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -145,4 +145,4 @@ LSTM model forecasting wind turbine power output from historical **SCADA** data,
   <i>“Data is the fuel, models are the engine — but evaluation is the steering wheel.”</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
